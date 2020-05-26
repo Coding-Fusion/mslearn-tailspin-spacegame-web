@@ -1,4 +1,4 @@
-
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Coding-Fusion_mslearn-tailspin-spacegame-web)](https://sonarcloud.io/dashboard?id=Coding-Fusion_mslearn-tailspin-spacegame-web)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
